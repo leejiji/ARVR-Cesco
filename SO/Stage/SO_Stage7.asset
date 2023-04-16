@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad333180d045acd479addd6b23b168bc, type: 3}
+  m_Name: SO_Stage7
+  m_EditorClassIdentifier: 
+  ID: 207
+  Name: "\uBC8C\uB808 \uC2B5"
+  Ex: "\uBC1C\uC2E0\uC778 : \uAE40\uAC00\uC601\\n\uC8FC\uC18C :  \uC2EC\uC5F0\\n\uD30C\uAD34!!!
+    \uD30C\uAD34!!!\\n\uD558\uD558\uD558 \uBC8C\uB808\uB4E4\uC544!!! \uC774\uAC8C
+    \uBD88\uC9C0\uC625\uC774\uB2E4!!!"
+  Reward: 2000
+  Mission_1: 400
+  Mission_2: 300
+  Mission_3: 240
+  Tool_1_ID: 302
+  Tool_2_ID: 10000
+  BA_Amount: 50
+  BAs_Amount: 20
+  Fly_Count: 15
+  Caterpillar_Count: 30

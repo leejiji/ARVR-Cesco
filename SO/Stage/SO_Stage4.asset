@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad333180d045acd479addd6b23b168bc, type: 3}
+  m_Name: SO_Stage4
+  m_EditorClassIdentifier: 
+  ID: 204
+  Name: "\uD070 \uC190\uB2D8"
+  Ex: "\uC758\uB8B0\uC778 : \uC774\uC9C0\uC601\\n\uC8FC\uC18C : \uD55C\uAD6D\uB300
+    \uBCF5\uC0AC\uC9D1\\n\uBC14\uBE4C\uB77C \uD559\uC0DD\uD55C\uD14C \uC18C\uAC1C
+    \uBC1B\uC558\uC2B5\uB2C8\uB2E4. \uD639\uC2DC \uC800\uD76C \uC5C5\uC7A5\uB3C4
+    \uAC00\uB2A5 \uD560\uAE4C\uC694? \uC0AC\uB840\uAE08\uC740 \uCDA9\uBD84\uD788
+    \uB4DC\uB9AC\uACA0\uC2B5\uB2C8\uB2E4."
+  Reward: 400
+  Mission_1: 360
+  Mission_2: 300
+  Mission_3: 200
+  Tool_1_ID: 10000
+  Tool_2_ID: 10000
+  BA_Amount: 20
+  BAs_Amount: 12
+  Fly_Count: 10000
+  Caterpillar_Count: 7
